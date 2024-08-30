@@ -4,4 +4,4 @@ This repository contains the resume of Shalin Vachheta, showcasing skills, exper
 
 ## View Resume
 
-For a detailed view of Shalin Vachheta's resume, click [here](https://shalinvachheta017.github.io/Resume_Shalin-Vachheta/).
+For a detailed view of Shalin Vachheta's resume, click [here]([https://shalinvachheta017.github.io/Resume_Shalin-Vachheta/](https://shalinvachheta017.github.io/Resume_Shalin-Vachheta_io/)).
